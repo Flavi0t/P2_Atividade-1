@@ -2,4 +2,4 @@
 
 Q1- A classe Product possui 3 métodos: Mostras os dados do produto, realizar a entrada do produto e a saída do produto.
 
-Q-2- A clase Product herdou o método toString da classe padrão Object
+Q-2- A clase Product herdou o método toString da classe padrão Object.
